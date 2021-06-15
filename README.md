@@ -23,14 +23,16 @@ As always, you must also follow [the code of student conduct and the policy on p
 
 ## What to do
 
-Create a Jupyter notebook in Python 3 that compares the use of the [scikit-learn `KNeighborsClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) with that of [keras](https://keras.io/) for classifying the three species of iris identified in [Fisher's famous iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set).
-The following should be included in your notebook.
+Create a Jupyter notebook in Python 3 that compares the use of the [scikit-learn `KNeighborsClassifier`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) with the use of keras [keras](https://keras.io/) for classifying the three species of iris identified in [Fisher's famous iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set).
+The notebook should include the following.
 
 1. A description of the iris dataset and an explanation of why it so heavily referenced in machine learning, particularly in respect to classification algorithms.
 2. An explanation and code to train a k-nearest-neighbour classifier for the iris species based on the dataset using `scikit-learn`.
 3. An explanation and code to train a classifier for the iris species based on the `keras` package.
 4. A comparison of the accuracy of your two classifiers.
 
+
+The notebook should be stored in your GitHub repository along with an appropriate README detailing how to run it.
 
 ## Enhancements
 
